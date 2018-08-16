@@ -3,6 +3,14 @@
 
 自己可以参考网上的资料，大致可以理解并且写出来
 
+```
+参考网址
+https://mp.weixin.qq.com/s/9WSCS1rgMuf5tXIALRLFfw
+```
+ 各个算法的时间复杂度
+ 
+ ![O(N)](image/O(N).png "O(N)")
+
 2018年8月15日16:2:8
 
 ###和GitHub关联的步骤：
@@ -49,3 +57,4 @@ git pull --rebase origin master
 此时再执行语句 git push -u origin master即可完成代码上传到github
 
 ```
+
