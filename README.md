@@ -58,3 +58,9 @@ git pull --rebase origin master
 
 ```
 
+关于关联本地和github仓库时，推送权限的问题的备注：
+ ![fatal](image/fatal.png "fatal")
+```
+```
+
+
